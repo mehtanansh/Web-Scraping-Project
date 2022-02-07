@@ -1,5 +1,13 @@
 # Web-Scraping-Project
-This Project is implemented using Python and it's libraries (Pandas, Beautiful Soup, Numpy,etc.). I have scraped data from Amazon India and created a Dataset of mobiles (.csv). Further, I have also performed Exploratory Data Analysis on the same
+
+This project was has 2 sections:
+
+1) Web Scraper that helps in scraping a list of TVs and Mobiles on Amazon
+This part is included in the folder: Amazon Web Scraper for TVs and Mobiles. One may use the code for data scraping and collection purpose
+This part of the project is implemented using Python and it's libraries (Pandas, Beautiful Soup, Numpy, etc.). I have scraped data from Amazon India and created a Dataset of mobiles (.csv). 
+
+2) Exploratory Data Analysis performed on the data scraped from Amazon Scraper
+This part of the project is implemented using Python and it's libraries (Pandas, Beautiful Soup, Numpy, etc.). I have scraped data from Amazon India and created a Dataset of mobiles (.csv). Further, I have also performed Exploratory Data Analysis on the same
 
 This project is just a basic project to showcase the concepts I learnt through Youtube and Online resources on Web Scraping and diplay my analytical skills.
 
